@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+  <title>Xiucai Ding</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+  <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
+  <style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+
+<!-- Navigation -->
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+		<ul class="nav navbar-nav">
+              <li><a href="index.html"><b>Home</b></a></li>
+              <li><a href="research.html"><b>Research</b></a></li> 
+              <li><a href="teaching.html"><b>Teaching</b></a></li> 
+		</ul>
+	  </div>
+	</nav>
+	
+
+  
+  <!-- Page Content -->
+
+                
+                <!-- Main Image -->
+		<!--    
+                
+                <div class="col-md-8" style="margin-top:4%; text-align:justify;">    
+			 
+			                   <div class="row">
+  <div class="column">
+    <img src="fish.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="vehicle.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
+                </div>
+            </div> 
+
+         
+            
+            
+            <!-- Links on the Sidebar -->
+            
+            
+       
+
+            
+        </div>
+
+
+    </div>
+
+   
+    
+</body>
+
+</html>
